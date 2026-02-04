@@ -1,0 +1,60 @@
+{
+    "P001": {
+        "name": "John Doe",
+        "age": 30,
+        "gender": "Male",
+        "address": "123 Main St",
+        "phone": "123-456-7890",
+        "city": "New York",
+        "height": 180,
+        "weight": 75,
+        "bmi": 23.15,
+        "verdict": "Normal"
+    },
+    "P002": {
+        "name": "Jane Smith",
+        "age": 28,
+        "gender": "Female",
+        "address": "456 Oak Ave",
+        "phone": "234-567-8901",
+        "city": "Los Angeles",
+        "height": 165,
+        "weight": 60,
+        "bmi": 22.04,
+        "verdict": "Normal"
+    },
+    "P003": {
+        "name": "Michael Johnson",
+        "age": 45,
+        "gender": "Male",
+        "address": "789 Pine Rd",
+        "phone": "345-678-9012",
+        "city": "Chicago",
+        "height": 175,
+        "weight": 85,
+        "bmi": 27.76,
+        "verdict": "Overweight"
+    },
+    "P004": {
+        "name": "Emily Davis",
+        "city": "California",
+        "age": 32,
+        "gender": "Female",
+        "height": 160.0,
+        "weight": 75.0,
+        "bmi": 29.3,
+        "verdict": "Overweight"
+    },
+    "P005": {
+        "name": "Robert Wilson",
+        "age": 50,
+        "gender": "Male",
+        "address": "654 Maple Dr",
+        "phone": "567-890-1234",
+        "city": "Phoenix",
+        "height": 182,
+        "weight": 95,
+        "bmi": 28.68,
+        "verdict": "Overweight"
+    }
+}

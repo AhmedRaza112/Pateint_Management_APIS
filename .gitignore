@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+myenv/
+venv/
+.vscode/
+.idea/
+*.json
+!pateints.json
